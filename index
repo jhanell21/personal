@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jhanell Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<body style="background-color: lightpink; color: white;">
+  <a href="index.html" 
+  class="btn btn-dark position-fixed bottom-0 end-0 m-4 rounded-circle shadow"
+   title="Back to Home">
+  🏠
+</a>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: grey;">
+  <div class="container">
+    <a><span style="color: #ff004f;">J</span>hnll.</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
+        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+        <li class="nav-item"><a class="nav-link" href="#work">Projects</a></li>
+        <li class="nav-item"><a class="nav-link" href="#contact">Contacts</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="d-flex align-items-center" style="min-height: 100vh;" data-aos="fade-right">
+  <div class="container text-white">
+    <div class="row align-items-center">
+      <div class="col-md-6" data-aos="fade-right">
+        <p style="color: white;">IT Student</p>
+        <h1 style="color: #000;">Hi, I'm <span style="color:red;">Jhanell</span> <br> Chuidian Bernandino From GRC</h1>
+        <!-- Contact Info -->
+<div class="col-md-4" data-aos="fade-right">
+  <div class="contact-info text-center">
+    <div class="info-item mb-3 d-flex align-items-center justify-content-center">
+      <i class="fas fa-paper-plane me-2"></i>
+      <span>bernandinojhanell@gmail.com</span>
+    </div>
+    <div class="social-links d-flex justify-content-start gap-3" data-aos="fade-right">
+      <a href="https://www.facebook.com/share/1EknWwtDJh/" target="_blank">
+        <img src="../images,videos/facebook.png" alt="Facebook" width="20" height="20">
+      </a>
+      <a href="https://www.tiktok.com/@urluvjshzushwx?_t=ZS-8vkDlNEqhJl&_r=1" target="_blank">
+        <img src="../images,videos/tiktok.webp" alt="TikTok" width="20" height="20">
+      </a>
+      <a href="https://www.instagram.com/jhnll_bc?igsh=dWloMDg0OThpcTFs" target="_blank">
+        <img src="../images,videos/instagram.png" alt="Instagram" width="20" height="20">
+      </a>
+      <a href="t.me/jhnll_bc" target="_blank">
+        <img src="../images,videos/telegram.png" alt="Telegram" width="20" height="20">
+      </a>
+    </div>
+  </div>
+</div>
+        <!-- Image Gallery -->
+    <div class="container img-gallery d-flex flex-wrap justify-content-start gap-3 my-4" data-aos="fade-left">
+      
+    </div>
+    </div>
+    <div class="col-md-6 text-center">
+      <img src="../images,videos/profile.jpg" class="img-fluid rounded-circle" alt="Jhanell">
+    </div>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="py-5 text-dark" style="background: linear-gradient(to right, #d3cce3, #e9e4f0);">
+  <div class="container">
+    <div class="row align-items-center">
+      
+      <!-- Image Section -->
+      <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-right">
+        <img src="../images,videos/swimming.jpg" alt="About Me" class="img-fluid rounded shadow">
+      </div>
+
+      <!-- Content Section -->
+      <div class="col-md-6" data-aos="fade-left">
+        <h2 class="mb-3">About Me</h2>
+        <p class="lead">
+          I'm <strong>Jhanell C. Bernandino</strong>, an IT student at Global Reciprocal Colleges with a strong passion for technology and design. I focus on web development, app design, and creative editing.
+        </p>
+
+        <!-- Personal Information -->
+        <div class="row mb-3">
+          <div class="col-sm-6 mb-2">
+            <p><i class="bi bi-caret-right-fill text-primary"></i> <strong>Birthday:</strong> January 21, 2005</p>
+          </div>
+          <div class="col-sm-6 mb-2">
+            <p><i class="bi bi-caret-right-fill text-primary"></i> <strong>Age:</strong> 19</p>
+          </div>
+          <div class="col-sm-6 mb-2">
+            <p><i class="bi bi-caret-right-fill text-primary"></i> <strong>Phone #:</strong> 0992 408 8740</p>
+          </div>
+          <div class="col-sm-6 mb-2">
+            <p><i class="bi bi-caret-right-fill text-primary"></i> <strong>City:</strong> Manila</p>
+          </div>
+        </div>
+
+        <a href="#contact" class="btn btn-primary btn-lg shadow" style="transition: 0.3s;">Let's Talk</a>
+
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+<!-- Services Section -->
+<section id="services" class="py-5" style="background-color: lightpink;">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-right">
+      <h2 class="fw-bold" style="color: black;">My Services</h2>
+      <p class="text-muted">What I can do for you</p>
+    </div>
+    <div class="row g-4" data-aos="fade-right">
+      <div class="col-md-4">
+        <div class="card h-100 shadow border-0">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <i class="bi bi-pencil display-4 text-danger"></i>
+            </div>
+            <h5 class="card-title">Editing</h5>
+            <p class="card-text text-muted">
+              Editing means reviewing and improving work by correcting mistakes, adjusting designs, refining content, or making things clearer and more effective. In web or app development, editing can involve fixing layouts, updating text, enhancing user experience...
+            </p>
+            <a href="#" class="btn btn-outline-danger mt-3">Learn More</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-md-4">
+        <div class="card h-100 shadow border-0 bg-danger text-white">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <i class="bi bi-app-indicator display-4"></i>
+            </div>
+            <h5 class="card-title">App Designer</h5>
+            <p class="card-text">
+              An app designer focuses on planning and creating the look, feel, and user experience (UX) of an app. They design how the app will appear (buttons, colors, layouts) and how users will interact with it...
+            </p>
+            <a href="#" class="btn btn-light mt-3">Learn More</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-md-4">
+        <div class="card h-100 shadow border-0">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <i class="bi bi-pen display-4 text-danger"></i>
+            </div>
+            <h5 class="card-title">Web Developer</h5>
+            <p class="card-text text-muted">
+              A web developer designs, creates, and manages websites and web applications. They work with programming languages like HTML, CSS, and JavaScript, and often use frameworks and tools to make websites functional, interactive, and visually appealing...
+            </p>
+            <a href="#" class="btn btn-outline-danger mt-3">Learn More</a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<!-- My Work Section -->
+<section id="work" class="py-5" style="background: linear-gradient(to right, #d3cce3, #e9e4f0);">
+  <div class="container text-center">
+    <h2 class="mb-5" style="color: black;">My Work</h2>
+      <a href="https://jhanell21.github.io/bootstrap/">
+        <img src="../images,videos/bootstrap.png" alt="Click me to go to Bootstrap width="300" height="300" data-aos="fade-right">
+      </a>
+      <a href="https://jhanell21.github.io/calendar/">
+        <img src="../images,videos/calendar.png" alt="Click me to go to Calendar width="300" height="300" data-aos="fade-left">
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Contact Form -->
+<section id="contact" class="py-5 text-white" style="background-color: lightpink;" data-aos="fade-right">
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8 text-center">
+      <h1 style="color: black;"><i class="bi bi-chat-heart"></i> Contact Me</h1>
+      <br>
+      <h3 style="color: black;">I'd love to hear from you!<br>Reach me using the form below.</h3>
+      <form class="text-start mt-4"> <!-- Added mt-4 for some spacing -->
+        <div class="form-group mb-3">
+          <input type="text" class="form-control" placeholder="Your Name" required>
+        </div>
+        <div class="form-group mb-3">
+          <input type="email" class="form-control" placeholder="Your Email" required>
+        </div>
+        <div class="form-group mb-3">
+          <textarea class="form-control" rows="5" placeholder="Your Message" required></textarea>
+        </div>
+        <div class="text-center">
+          <button type="submit" class="btn btn-danger">Send Message</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+  </div>
+</section>
+
+<!-- My Resume -->
+<section id="resume" class="py-5" style="background: linear-gradient(to right, #d3cce3, #e9e4f0);" data-aos="fade-right">
+  <div class="container text-center">
+    <h2 class="mb-5" style="color: black;"><i class="bi bi-person-circle"></i> My Resume</h2>
+        <img src="../images,videos/creative.jpg" alt="Click me to go to Resume">
+      </a>
+    </div>
+  </div>
+</section>
+<br>
+  <!-- Footer -->
+  <footer id="footer" class="text-center"  >
+    <p style="color: #000;">&copy; 2025 My Website</p>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+</body>
+</html>
