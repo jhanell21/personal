@@ -50,16 +50,16 @@
     </div>
     <div class="social-links d-flex justify-content-start gap-3" data-aos="fade-right">
       <a href="https://www.facebook.com/share/1EknWwtDJh/" target="_blank">
-        <img src="../images,videos/facebook.png" alt="Facebook" width="20" height="20">
+        <img src="images,videos/facebook.png" alt="Facebook" width="20" height="20">
       </a>
       <a href="https://www.tiktok.com/@urluvjshzushwx?_t=ZS-8vkDlNEqhJl&_r=1" target="_blank">
-        <img src="../images,videos/tiktok.webp" alt="TikTok" width="20" height="20">
+        <img src="images,videos/tiktok.webp" alt="TikTok" width="20" height="20">
       </a>
       <a href="https://www.instagram.com/jhnll_bc?igsh=dWloMDg0OThpcTFs" target="_blank">
-        <img src="../images,videos/instagram.png" alt="Instagram" width="20" height="20">
+        <img src="images,videos/instagram.png" alt="Instagram" width="20" height="20">
       </a>
       <a href="t.me/jhnll_bc" target="_blank">
-        <img src="../images,videos/telegram.png" alt="Telegram" width="20" height="20">
+        <img src="images,videos/telegram.png" alt="Telegram" width="20" height="20">
       </a>
     </div>
   </div>
@@ -70,7 +70,7 @@
     </div>
     </div>
     <div class="col-md-6 text-center">
-      <img src="../images,videos/profile.jpg" class="img-fluid rounded-circle" alt="Jhanell">
+      <img src="images,videos/profile.jpg" class="img-fluid rounded-circle" alt="Jhanell">
     </div>
     </div>
   </div>
@@ -82,7 +82,7 @@
       
       <!-- Image Section -->
       <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-right">
-        <img src="../images,videos/swimming.jpg" alt="About Me" class="img-fluid rounded shadow">
+        <img src="images,videos/swimming.jpg" alt="About Me" class="img-fluid rounded shadow">
       </div>
 
       <!-- Content Section -->
@@ -180,10 +180,10 @@
   <div class="container text-center">
     <h2 class="mb-5" style="color: black;">My Work</h2>
       <a href="https://jhanell21.github.io/bootstrap/">
-        <img src="../images,videos/bootstrap.png" alt="Click me to go to Bootstrap width="300" height="300" data-aos="fade-right">
+        <img src="images,videos/bootstrap.png" alt="Click me to go to Bootstrap width="300" height="300" data-aos="fade-right">
       </a>
       <a href="https://jhanell21.github.io/calendar/">
-        <img src="../images,videos/calendar.png" alt="Click me to go to Calendar width="300" height="300" data-aos="fade-left">
+        <img src="images,videos/calendar.png" alt="Click me to go to Calendar width="300" height="300" data-aos="fade-left">
       </a>
     </div>
   </div>
